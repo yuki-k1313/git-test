@@ -3,3 +3,4 @@ sub1 branch 1
 sub1 branch 2
 sub1 branch 3
 sub2 branch 1
+clone 1
